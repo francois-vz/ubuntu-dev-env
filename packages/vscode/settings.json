@@ -1,0 +1,36 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.formatting.provider": "none",
+  "workbench.colorTheme": "Default Light+",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.renderWhitespace": "all",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "autoAlign.enabled": {
+    "csv": false,
+    "bsv": true,
+    "log": false
+  },
+  "python.defaultInterpreterPath": "/home/francois/miniconda3/bin/python",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "[shellscript]": {
+    "editor.defaultFormatter": "shakram02.bash-beautify"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "none",
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "files.associations": {
+    "*.sh": "shellscript"
+  }
+}

@@ -6,32 +6,19 @@ This repository contains my shell, window management, and package configuration 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repo exists to:
 
 - Bootstrap a clean Ubuntu install into my preferred dev environment
 - Keep terminal, tiling behavior, and tooling consistent across machines
-- Version-control system configuration over time
-- Document what is installed and why
+- Version-control system configuration and packages over time
 
 ---
 
-## 📦 What’s Included
+## Contents
 
-### 🐚 Zsh Configuration
-- `zshrc`
-- Oh My Zsh with the `agnoster` theme
-- Custom prompt tweaks
-- Plugin configuration (git, fzf, autosuggestions, etc.)
-- Optional Conda + NVM integration
-
-### 🪟 Tiling / Desktop
-- GNOME configuration for **Tiling Assistant**
-- Window management preferences tuned for keyboard-driven workflow
-
-### 📦 APT Packages
-- Explicitly installed packages exported using:
-
-```bash
-apt-mark showmanual > packages/apt.txt
+- Zsh Configuration
+- Tiling navigation
+- APT packages
+- VSCode settings & packages

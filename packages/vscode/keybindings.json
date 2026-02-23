@@ -1,0 +1,20 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+;",
+        "command": "extension.rerunLastCommand"
+    },
+    {
+        "key": "ctrl+f7",
+        "command": "-extension.rerunLastCommand"
+    },
+    {
+        "key": "ctrl+alt+p",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+            "langId": "python",
+            "name": "Print Debug"
+        }
+    }
+]
