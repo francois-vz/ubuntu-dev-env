@@ -4,7 +4,6 @@ eamodio.gitlens
 emilast.logfilehighlighter
 esbenp.prettier-vscode
 fabiospampinato.vscode-diff
-foxundermoon.shell-format
 github.copilot-chat
 grapecity.gc-excelviewer
 gruntfuggly.align-mode
@@ -29,5 +28,6 @@ ms-vscode-remote.remote-ssh-edit
 ms-vscode.remote-explorer
 njpwerner.autodocstring
 oderwat.indent-rainbow
+shakram02.bash-beautify
 stackbreak.comment-divider
 vscode-icons-team.vscode-icons
